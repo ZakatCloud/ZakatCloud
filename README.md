@@ -20,7 +20,7 @@
 Многофункциональный фреймворк для аудита безопасности веб-ресурсов.
 - 🎯 Оптимизирован для максимального воздействия при минимальной нагрузке на систему.
 - 🔍 Включает модули для фаззинга, проверки заголовков и анализа уязвимостей.
-- 🦀 Написан на **Rust** с акцентом на скорость и безопасность памяти.
+- 🦀 Написан на **Python** с акцентом на скорость и безопасность памяти.
 
 ---
 
@@ -38,11 +38,6 @@
 ---
 
 ## 📊 // СТАТИСТИКА GITHUB
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZakatCloud&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakatCloud&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="45%" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ZakatCloud&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
@@ -64,7 +59,3 @@
 - **GitHub:** Вы находитесь здесь 😉
 
 ---
-
-<p align="center">
-  <i>“Код должен быть элегантным, как хорошая музыка.”</i>
-</p>
