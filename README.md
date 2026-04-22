@@ -36,13 +36,6 @@
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
 ---
-
-## 📊 // СТАТИСТИКА GITHUB
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ZakatCloud&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 💡 // ИНТЕРЕСЫ
