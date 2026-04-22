@@ -1,16 +1,76 @@
-## Hi there 👋
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZakatCloud/ZakatCloud/main/assets/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZakatCloud/ZakatCloud/main/assets/banner-light.svg">
+  <img alt="Андрей Силентов | Разработчик" src="https://raw.githubusercontent.com/ZakatCloud/ZakatCloud/main/assets/banner-light.svg">
+</picture>
 
-<!--
-**ZakatCloud/ZakatCloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👨‍💻 Андрей Силентов
 
-Here are some ideas to get you started:
+> Разработчик из Омска, 17 лет. Пишу на **Node.js**, **Go** и **Rust**. Создаю высокопроизводительные и безопасные решения.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Telegram](https://img.shields.io/badge/Telegram-@youngequinox-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/youngequinox)
+[![GitHub](https://img.shields.io/badge/GitHub-ZakatCloud-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZakatCloud)
+[![Website](https://img.shields.io/badge/Website-silentovandrey.ru-0A0A0A?style=for-the-badge&logo=aboutdotme&logoColor=white)](https://silentovandrey.ru)
+
+---
+
+## 🚀 // ПРОЕКТЫ
+
+### 🔐 EquiDex VPN
+Высокопроизводительный VPN-сервис на базе **Cloudflare WARP** с интеграцией **Telegram бота**.
+- ⚡ Автоматическая генерация WireGuard конфигов через официальный API.
+- 💳 Приём платежей через **Telegram Stars** и **ЮMoney API**.
+- 🛡 Обфускация трафика для обхода DPI (поддержка **AmneziaWG**).
+
+### 🛡️ HydroWeb
+Многофункциональный фреймворк для аудита безопасности веб-ресурсов.
+- 🎯 Оптимизирован для максимального воздействия при минимальной нагрузке на систему.
+- 🔍 Включает модули для фаззинга, проверки заголовков и анализа уязвимостей.
+- 🦀 Написан на **Rust** с акцентом на скорость и безопасность памяти.
+
+---
+
+## 🧠 // МАТРИЦА НАВЫКОВ
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+---
+
+## 📊 // СТАТИСТИКА GITHUB
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ZakatCloud&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZakatCloud&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ZakatCloud&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 💡 // ИНТЕРЕСЫ
+- 🛡️ Кибербезопасность и этичный хакинг (CTF).
+- 🤖 Искусственный интеллект и машинное обучение.
+- 🎵 Музыка .
+- 🌍 Open Source разработка.
+
+---
+
+## 📫 // КОНТАКТЫ
+- **Telegram:** [@youngequinox](https://t.me/youngequinox)
+- **Веб-сайт:** [silentovandrey.ru](https://silentovandrey.ru)
+- **GitHub:** Вы находитесь здесь 😉
+
+---
+
+<p align="center">
+  <i>“Код должен быть элегантным, как хорошая музыка.”</i>
+</p>
