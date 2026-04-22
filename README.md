@@ -1,9 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ZakatCloud/ZakatCloud/main/assets/banner-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ZakatCloud/ZakatCloud/main/assets/banner-light.svg">
-  <img alt="Андрей Силентов | Разработчик" src="https://raw.githubusercontent.com/ZakatCloud/ZakatCloud/main/assets/banner-light.svg">
-</picture>
-
 # 👨‍💻 Андрей Силентов
 
 > Разработчик из Омска, 17 лет. Пишу на **Node.js**, **Go** и **Rust**. Создаю высокопроизводительные и безопасные решения.
