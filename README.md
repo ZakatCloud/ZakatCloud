@@ -1,6 +1,6 @@
 # 👨‍💻 Андрей Силентов
 
-> Разработчик из Омска, 17 лет. Пишу на **Node.js**, **Go** и **Rust**. Создаю высокопроизводительные и безопасные решения.
+> Разработчик из Омска, 17 лет. Пишу на **Node.js** в основном :3 
 
 [![Telegram](https://img.shields.io/badge/Telegram-@youngequinox-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/youngequinox)
 [![GitHub](https://img.shields.io/badge/GitHub-ZakatCloud-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ZakatCloud)
